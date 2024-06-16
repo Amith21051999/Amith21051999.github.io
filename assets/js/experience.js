@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Developer",
-    cardImage: "assets/images/experience-page/download.png",
-    place: "Newgen Software",
-    time: "(April, 2021 - present)",
-    desp: "<li>Writing a clean, scalable code and also writing of test cases for unit testing, system testing, negative testing. </li> <li>Documenting and demonstrating solutions by developing documentation, flowcharts, layouts, diagram, charts, code. comments and clear code; Ensuring that project task are completed in defined effort and timelines. </li> <li>Developing software solutions by studying information needs, conferring with users, studying system flow, data usage and work processes, investigating problem areas and following delivery cycle.</li>",
+    title: "Data Engineer",
+    cardImage: "C:\Users\akapoor\Downloads\Incursion-beta.github.io-main\Incursion-beta.github.io-main\assets\images\experience-page/Capgemini-Logo.wine.png",
+    place: "Capgemini Technology Services",
+    time: "(Mar, 2021 - july 2023)",
+    desp: "<li>Spearheaded end-to-end data management initiatives at Capgemini, leveraging a sophisticated tech stack including Microsoft Business Intelligence suite (ETL) with SSIS and Power BI, alongside Python for advanced preprocessing and manipulation, resulting in streamlined processes and a 20% increase in operational efficiency.</li>",
   },
   
 ];
