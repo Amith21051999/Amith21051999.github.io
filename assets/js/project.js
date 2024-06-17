@@ -24,7 +24,7 @@ const projects = [
     cardImage: "assets/images/project-page/SDM.jpg",
     description: "Analyzed the relationship between gun control laws and violent crime rates using panel data",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/Incursion-beta/Facial-Emotion-Age-and-Gender-Recognition-System",
+    Githublink: "https://github.com/Amith21051999/Statistical_data_mining_project",
   },
 ];
 
