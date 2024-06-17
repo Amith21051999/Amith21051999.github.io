@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/Database_Management_GVSU_Badge.png",
     description: "A ETL (Extract, Transform, and Load) pipieline of Hospital Database.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/Incursion-beta/Budget-calculator-using-Js",
+    Githublink: "https://github.com/Amith21051999/Advanced_database_management_Hospital_administration",
   },
   {
     title: "US House Pricing Prediction",
