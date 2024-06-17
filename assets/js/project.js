@@ -7,8 +7,8 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Advance Database Management",
-    cardImage: "assets/images/project-page/budget1.gif",
-    description: "A budget calculator to measure monthly expenses and income.",
+    cardImage: "assets/images/project-page/Database_Management_GVSU_Badge.png",
+    description: "A ETL (Extract, Transform, and Load) pipieline of Hospital Database.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Githublink: "https://github.com/Incursion-beta/Budget-calculator-using-Js",
   },
