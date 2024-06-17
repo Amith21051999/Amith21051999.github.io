@@ -192,7 +192,7 @@ let footer = $(`
 
 
 
-    <a class="social-button instagram" href="https://www.instagram.com/nitesh_vamshi/" target="_blank" >
+    <a class="social-button instagram" href="https:https://www.instagram.com/_amit__kapoor/" target="_blank" >
     <!-- svg code for instagram icon -->
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
         style="enable-background:new 0 0 202.5 202.5;">
