@@ -1,6 +1,6 @@
 AOS.init();
 
-//  Work experience cards
+// Work experience cards
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
@@ -8,16 +8,15 @@ const exp = [
     title: "Data Engineer",
     cardImage: "/assets/images/experience-page/Capgemini-Logo.wine.png",
     place: "Capgemini Technology Services",
-    time: "(Mar, 2021 - july 2023)",
-    desp: "<ul>
+    time: "(Mar, 2021 - July 2023)",
+    desp: `<ul>
         <li>Spearheaded end-to-end data management initiatives at Capgemini, leveraging a sophisticated tech stack including Microsoft Business Intelligence suite (ETL) with SSIS and Power BI, alongside Python for advanced preprocessing and manipulation, resulting in streamlined processes and a 20% increase in operational efficiency.</li>
         <li>Successfully migrated on-premises data to Azure cloud services with minimal downtime, ensuring data integrity and achieving a 98% data transfer success rate.</li>
         <li>Managed migration of UK HR Redundancy calculator reports from Qlik to SSRS, optimizing query performance with SSIS platforms, enhanced Stored Procedures, and Python scripts for data transformation, resulting in a 30% decrease in report generation time.</li>
         <li>Demonstrated adeptness in data integrity and flow management, maintaining a remarkable 98% issue resolution rate within SLAs using advanced SQL scripting, SQL job automation, and Python, resulting in improved data accuracy and reliability.</li>
         <li>Engineered comprehensive reporting solutions and dynamic analytics dashboards, incorporating Tableau, and advanced data visualization libraries for actionable insights.</li>
-      </ul>",
+      </ul>`,
   },
-  
 ];
 
 const showCards2 = () => {
@@ -37,9 +36,7 @@ const showCards2 = () => {
               <span class="pre-heading">${place}</span><br>
               <span class="author">${time}</span>
             </p>
-            <ol>
               ${desp}
-            </ol>
           </header>
         </article>
       </div>
@@ -49,5 +46,3 @@ const showCards2 = () => {
   experiencecards.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards2);
-
-
