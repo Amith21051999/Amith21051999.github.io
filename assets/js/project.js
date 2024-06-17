@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Budget Calculator",
+    title: "Advance Database Management",
     cardImage: "assets/images/project-page/budget1.gif",
     description: "A budget calculator to measure monthly expenses and income.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
