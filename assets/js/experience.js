@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Engineer",
-    cardImage: "\assets\images\experience-page/Capgemini-Logo.wine.png",
+    cardImage: "\assets\images\experience-page\Capgemini-Logo.wine.png",
     place: "Capgemini Technology Services",
     time: "(Mar, 2021 - july 2023)",
     desp: "<li>Spearheaded end-to-end data management initiatives at Capgemini, leveraging a sophisticated tech stack including Microsoft Business Intelligence suite (ETL) with SSIS and Power BI, alongside Python for advanced preprocessing and manipulation, resulting in streamlined processes and a 20% increase in operational efficiency. 
