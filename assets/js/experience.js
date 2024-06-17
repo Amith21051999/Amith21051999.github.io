@@ -15,8 +15,7 @@ const exp = [
         <li>Managed migration of UK HR Redundancy calculator reports from Qlik to SSRS, optimizing query performance with SSIS platforms, enhanced Stored Procedures, and Python scripts for data transformation, resulting in a 30% decrease in report generation time.</li>
         <li>Demonstrated adeptness in data integrity and flow management, maintaining a remarkable 98% issue resolution rate within SLAs using advanced SQL scripting, SQL job automation, and Python, resulting in improved data accuracy and reliability.</li>
         <li>Engineered comprehensive reporting solutions and dynamic analytics dashboards, incorporating Tableau, and advanced data visualization libraries for actionable insights.</li>
-      </ul>
-    `,",
+      </ul>",
   },
   
 ];
