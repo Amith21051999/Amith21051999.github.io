@@ -1,5 +1,3 @@
-// blog.js
-
 document.addEventListener('DOMContentLoaded', () => {
     const blogContent = `
         <div class="container mt-5">
@@ -19,5 +17,6 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
     `;
 
-    document.body.innerHTML = blogContent;
+    document.getElementById('blogContent').innerHTML = blogContent;
 });
+
